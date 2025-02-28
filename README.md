@@ -1,16 +1,26 @@
-## Hi there 👋
+# Greetings,Code Enthusiasts!👋
+# I'm ADITYA
 
-<!--
-**099Aditya/099Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm a 4th-semester B.Tech student with a keen interest in Web development. I love exploring new technologies and tools to enhance my skills. Always open to collaboration, I'm eager to contribute to exciting projects and expand my knowledge in the field!
 
-Here are some ideas to get you started:
+## Know Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pursuing B.Tech in Computer Science Engineering at Graphic Era Hill University.
+- Currently exploring AI&ML and DAA.
+Enhancing my skills in Web Development.
+
+## Languages and Tools:
+
+- ⭐⭐⭐⭐⭐ in C 
+- ⭐⭐⭐ in Python 
+- ⭐ in C++
+
+## How to reach me:
+
+- [Instagram](https://www.instagram.com/aditya_bhardwaj22/?hl=en)
+- [LinkedIn](https://www.linkedin.com/in/-aditya-bhardwaj-b89381297/)
+- [Gmail](adityabhardwaj20584@gmail.com)
+
+---
+
+Let's collaborate and create something amazing! 🚀
