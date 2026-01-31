@@ -74,7 +74,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🤝 Let's Connect</h3>
       <p align="center">
-        <a href="https://www.linkedin.com/in/aditya-bhardwaj-b89381297/"><b>LinkedIn</b></a> • 
+        <a href="https://www.linkedin.com/in/aditya-bhardwaj-b89381297/"><b>LinkedIn</b></a> | 
         <a href="mailto:adityakbhardwaj01@gmail.com"><b>Mail</b></a><br>
         <i>Always open to discussing AI & Scalability!</i>
       </p>
