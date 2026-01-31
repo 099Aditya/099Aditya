@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Aditya Kumar Bhardwaj</h1>
+<h1 align="center">I'm Aditya Kumar Bhardwaj</h1>
 <h3 align="center">AI/ML Engineer • Full Stack Developer • Cloud Enthusiast</h3>
 
 <p align="center">
@@ -58,24 +58,33 @@
 
 ---
 
-## 📊 Performance Metrics
+## ⚡ Beyond the Code
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=099Aditya&show_icons=true&theme=transparent&text_color=00C2FF&title_color=white&icon_color=00C2FF&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=099Aditya&theme=transparent&stroke=00C2FF&fire=00C2FF&ring=white&hide_border=true" />
-</p>
-
-<br/>
-
-<h3 align="center">🐍 Contribution Journey</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/099Aditya/099Aditya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Current Focus</h3>
+      <p align="center">
+        🔭 <b>Building:</b> Distributed AI Systems<br>
+        📚 <b>Reading:</b> Deep Learning Patterns<br>
+        🎯 <b>Goal:</b> Contributing to Open Source LLMs
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤝 Let's Connect</h3>
+      <p align="center">
+        <a href="https://linkedin.com/in/aditya-bhardwaj"><b>LinkedIn</b></a> • 
+        <a href="https://twitter.com/yourhandle"><b>Twitter/X</b></a><br>
+        <a href="mailto:adityakbhardwaj01@gmail.com"><b>Direct Mail</b></a><br>
+        <i>Always open to discussing AI & Scalability!</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=2&section=footer&width=1000"/>
-  <br>
-  <b>Stay Awesome!</b> ✨
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=100&section=footer&text=Innovating%20with%20Data%20&%20Intelligence&fontSize=20&animation=fadeIn" width="100%"/>
 </p>
+
