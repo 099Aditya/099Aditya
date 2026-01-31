@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-bhardwaj"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditya-bhardwaj-b89381297/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adityakbhardwaj01@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/099Aditya"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -73,8 +73,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🤝 Let's Connect</h3>
       <p align="center">
-        <a href="https://linkedin.com/in/aditya-bhardwaj"><b>LinkedIn</b></a> • 
-        <a href="https://twitter.com/yourhandle"><b>Twitter/X</b></a><br>
+        <a href="https://www.linkedin.com/in/aditya-bhardwaj-b89381297/"><b>LinkedIn</b></a> • 
         <a href="mailto:adityakbhardwaj01@gmail.com"><b>Direct Mail</b></a><br>
         <i>Always open to discussing AI & Scalability!</i>
       </p>
