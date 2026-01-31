@@ -18,9 +18,10 @@
 
 > "Engineering intelligent solutions at the intersection of Data and Scalability."
 
-* 🎓 **Major:** B.Tech CSE (AI & ML) @ GEHU
-* 🛠️ **Building:** Scalable AI pipelines & Microservices
-* 🔭 **Now Learning:** LLM Fine-tuning & Kubernetes
+* 🎓 **Education:** B.Tech CSE (AI & ML) @ **Graphic Era Hill University, Dehradun**
+* 📅 **Current Status:** 6th Semester
+* 🛠️ **Building:** Scalable AI pipelines, RAG systems, and Microservices
+* 🔭 **Now Learning:** LLM Fine-tuning & Cloud Native Orchestration
 
 ---
 
